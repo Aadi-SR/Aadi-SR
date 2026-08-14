@@ -22,7 +22,7 @@ $ adithya --status
 
 
 
-
+ -->
 
 
 
@@ -72,12 +72,12 @@ Software engineer focusing on end-to-end web architectures, full-stack workflows
 
 
 
- -->
 
 
 
 
 
+<!-- 
 
 
 
@@ -97,4 +97,4 @@ Software engineer focusing on end-to-end web architectures, full-stack workflows
 $ adithya --init-profile
 > Status: Building scalable full-stack applications & architecting clean APIs
 > Core Stack: Python • Django • React • PostgreSQL • MongoDB Atlas
-> Focus: High performance, test-driven development & resilient systems
+> Focus: High performance, test-driven development & resilient systems -->

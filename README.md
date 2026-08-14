@@ -1,4 +1,6 @@
-<!-- ### 🛠️ Tech Stack
+ <!-- 
+ 
+ ### 🛠️ Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git)
 
 
@@ -22,7 +24,7 @@ $ adithya --status
 
 
 
- -->
+ 
 
 
 
@@ -77,15 +79,15 @@ Software engineer focusing on end-to-end web architectures, full-stack workflows
 
 
 
-<!-- 
+
 
 
 
 <div align="center">
-  <!-- Dynamic Wave Header Banner -->
+  <!-- Dynamic Wave Header Banner 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:091b34,100:00e5ff&height=220&section=header&text=ADITHYA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Subtitle 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Python+%26+Django+Architect;QA+%26+Software+Testing+Enthusiast;React+%26+Cloud+Backend+Builder" alt="Typing SVG" />
   </a>
@@ -97,4 +99,35 @@ Software engineer focusing on end-to-end web architectures, full-stack workflows
 $ adithya --init-profile
 > Status: Building scalable full-stack applications & architecting clean APIs
 > Core Stack: Python • Django • React • PostgreSQL • MongoDB Atlas
-> Focus: High performance, test-driven development & resilient systems -->
+> Focus: High performance, test-driven development & resilient systems
+
+
+
+ -->
+
+
+
+ <div align="center">
+
+  <!-- GLITCH / CYBERPUNK GAMER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,40:0f051d,80:00f0ff,100:ff0055&height=220&section=header&text=PLAYER%20:%20AADI&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=00f0ff&strokeWidth=2&animation=twinkling" width="100%"/>
+
+  <!-- ARCADE 8-BIT / CYBER TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=2500&pause=1000&color=00F0FF&background=0D022100&center=true&vCenter=true&width=620&lines=%3E+LEVEL+99+FULL-STACK+DEV+ACTIVATED;%3E+SPECIALTY%3A+PYTHON+%2B+DJANGO+%2B+REACT;%3E+QA+%26+SYSTEM+BUG+EXTERMINATOR;%3E+INITIALIZING+SERVER+CLUSTER..." alt="Arcade Typing" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║  [⚡] CLASS       : FULL-STACK ENGINEER & QA EXECUTOR                   ║
+ ║  [🛡️] SUB-CLASS   : BACKEND ARCHITECT & SYSTEM DEBUGGER                  ║
+ ║  [🔋] HP / MP     : 100% / 100%                                          ║
+ ║  [⚔️] MAIN WEAPON : PYTHON // DJANGO // REACT // POSTGRESQL              ║
+ ║  [🎯] MISSION     : CRAFT HIGH-PERFORMANCE APPS & SQUASH PRODUCTION BUGS ║
+ ╚══════════════════════════════════════════════════════════════════════════╝

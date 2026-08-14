@@ -139,125 +139,160 @@ $ adithya --init-profile
 
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=1000" width="100%"/>
 
-
-  <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20live%20on%20the%20internet&descAlignY=55&descSize=18" width="100%"/>
+<pre>
+ █████╗  █████╗ ██████╗ ██╗
+██╔══██╗██╔══██╗██╔══██╗██║
+███████║███████║██║  ██║██║
+██╔══██║██╔══██║██║  ██║██║
+██║  ██║██║  ██║██████╔╝██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
+</pre>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer;Open+Source+Contributor;Always+shipping+something;Coffee+%E2%86%92+Code+%E2%86%92+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=root%40Aadi-SR%3A~%24+whoami;%3E+builder+of+small%2C+scrappy+things;%3E+currently+shipping+in+JS+%2B+Shell;%3E+learning+in+public%2C+one+repo+at+a+time" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=A78BFA&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=A78BFA&labelColor=0f0c29)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Aadi-SR&color=39FF14&style=flat-square&label=TERMINAL+SESSIONS)
+[![Followers](https://img.shields.io/github/followers/Aadi-SR?style=flat-square&color=39FF14&labelColor=0d1117)](https://github.com/Aadi-SR)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Aadi-SR&label=repos&query=public_repos&style=flat-square&color=39FF14&labelColor=0d1117)](https://github.com/Aadi-SR?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=1000" width="100%"/>
 
 </div>
 
 <br/>
 
-## ⚡ About Me
+## `$ neofetch`
 
-```yaml
-name: Your Name
-role: Software Engineer / Full-Stack Developer
-location: Somewhere, Earth
-currently_building: something you're proud of
-currently_learning: something new and slightly terrifying
-fun_fact: this README took longer than most of my side projects
+```ini
+[user]
+handle      = Aadi-SR
+status      = actively breaking and fixing things
+based_in    = probably a terminal somewhere
+
+[stack]
+languages   = JavaScript, Java, Python, HTML, CSS
+stack       = MERN (MongoDB, Express, React, Node)
+also_uses   = Redux, GSAP, Django
+interests   = web apps, animation, backend plumbing
+os          = whatever the assignment required
+
+[uptime]
+learning    = 24/7, commits prove it
+coffee      = required dependency, not installed via npm
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+## `$ ls ./skills`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-*(swap these badges for whatever's actually in your stack — shields.io has hundreds more)*
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+![Django](https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+![GSAP](https://img.shields.io/badge/-GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## `$ git log --stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadi-SR&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-SR&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi-SR&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
 
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## `$ cat activity.log`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi-SR&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" width="100%"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## `$ ./run_snake.sh`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aadi-SR/Aadi-SR/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Set this one up with the [`platane/snk`](https://github.com/Platane/snk) GitHub Action — it animates your actual contribution graph as a snake eating your commits. Genuinely one of the coolest profile flexes out there.
+> One-time setup: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `Aadi-SR/Aadi-SR` repo. It turns your real contribution graph into a snake that eats your commits — genuinely the best "how did you do that" flex on a profile. Takes 5 minutes, runs itself daily after.
 
 <br/>
 
-## 🚀 Featured Projects
+## `$ ls ./projects --pinned`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/repo-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=repo-one&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<a href="https://github.com/Aadi-SR/express-book-review">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi-SR&repo=express-book-review&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/repo-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=repo-two&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<a href="https://github.com/Aadi-SR/Online-Course-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi-SR&repo=Online-Course-App&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+</a>
+<br/>
+<a href="https://github.com/Aadi-SR/github-final-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi-SR&repo=github-final-project&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Aadi-SR/Sher-A1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi-SR&repo=Sher-A1&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
 </a>
 
-</div>
-
-<br/>
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://your-site.dev)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:you@email.com)
+*(swap in whichever repos you're proudest of — pin any 4-6, doesn't have to be these)*
 
 </div>
 
 <br/>
 
+## `$ curl -s connect.sh | sh`
+
 <div align="center">
 
-```
-"Code is like humor. When you have to explain it, it's bad." — Cory House
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://your-site.dev)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:you@email.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```diff
++ status: still compiling ambition into code
+- bugs: 0 (lies, obviously)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<sub>thanks for scrolling this far — now go star something</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=1000" width="100%"/>
 
 </div>

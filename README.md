@@ -1,4 +1,4 @@
-### 🛠️ Tech Stack
+<!-- ### 🛠️ Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git)
 
 
@@ -72,7 +72,7 @@ Software engineer focusing on end-to-end web architectures, full-stack workflows
 
 
 
-
+ -->
 
 
 

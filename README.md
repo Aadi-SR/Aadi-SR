@@ -139,6 +139,13 @@ $ adithya --init-profile
 
 
 
+
+<!-- 
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=1000" width="100%"/>
@@ -295,4 +302,4 @@ coffee      = required dependency, not installed via npm
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=1000" width="100%"/>
 
-</div>
+</div> -->
